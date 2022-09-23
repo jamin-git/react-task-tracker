@@ -4,12 +4,8 @@
 This is a task tracking / reminder application created using React.js created in Fall of 2021.
 
 ### Frameworks Used
-[![React][React.js]][React-url]
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br>
 <br>
 See the project live at: https://jamin-git.github.io/react-task-tracker/
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
